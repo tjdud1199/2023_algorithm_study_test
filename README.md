@@ -39,7 +39,7 @@
 - https 형식의 주소를 복사하기
 - 터미널(cmd) 를 통해 자신의 로컬에서 폴더의 복사를 원하는 위치로 이동
 - clone 명령어 입력
- `git clone https://github.com/juyoung810/idecs-algorithm-study.git`
+ `git clone https://github.com/tjdud1199/2023_algorithm_study.git`
 
 - `git remote -v` 명령어 입력해서 원격 저장소와 연결되었는지 확인해보기
 
